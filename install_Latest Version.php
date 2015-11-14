@@ -1,3 +1,4 @@
+<?php
 /*
  * Press Kit Installation Script
  * 
